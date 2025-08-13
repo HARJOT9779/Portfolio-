@@ -1,6 +1,6 @@
 # Harjot Singh
 
-Hi! My Name is Harjot Singh Kumar. I've Graduated from [Guru Nanak Dev Engineering College](gndec.ac.in) in Information Technology. This is my corner of the Internet, I love to build stuff and logic. and Here's Popcorn 🍿, Enjoy reading the docs.
+Hi! My Name is Harjot Singh Rajpal. I've Graduated from [Guru Nanak Dev Engineering College](gndec.ac.in) in Information Technology. This is my corner of the Internet, I love to build stuff and logic. and Here's Popcorn 🍿, Enjoy reading the docs.
 
 ## TL;DR
 
@@ -44,9 +44,5 @@ In the project folder, navigate to `src` folder to access the source codes. Ther
 
 The edits will be reflected automatically in real time on the local host!
 
-### Acknowledgement
 
-Thankyou to everyone who helped in creating this portfolio, be it inspiration, guidance or any contribution🙏🤝
-
-Special Thanks to - [Riadhadrani](https://github.com/riadhadrani/), [Soumyajit](https://github.com/soumyajit4419/) and [Eric](https://github.com/eslachance)
 
